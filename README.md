@@ -1,7 +1,10 @@
-Email Spam Classifier – Machine Learning Project using Python
+PhishMailShield – Machine Learning Project using Python
 
-This project is a Machine Learning–based **Email Spam Classification System** built using Python, Scikit-learn, TF-IDF vectorization, and deployed using Streamlit.
+This project is a Machine Learning–based projectbuilt using Python, Scikit-learn, TF-IDF vectorization, and deployed using Streamlit.
 The application classifies input email text as **Spam** or **Ham (Not Spam)** with a confidence score.
+
+## Live Demo
+https://phishmailshield.streamlit.app/
 
 1. Project Overview
 
