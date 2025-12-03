@@ -41,7 +41,7 @@ Email-Spam-Classifier/
 
 ---
 
-4. How It Works
+4. How It Works:
 
 1. User inputs email text into the application.
 2. Text is vectorized using the **TF-IDF Vectorizer**.
